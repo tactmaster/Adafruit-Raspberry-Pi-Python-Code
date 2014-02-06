@@ -1,3 +1,9 @@
+Added 
+
+Clock + IP example for Adafruit_CharLCDPlate
+
+Ed Watson (tactmaster)
+
 Adafruit's Raspberry-Pi Python Code Library
 ============
   Here is a growing collection of libraries and example python scripts
