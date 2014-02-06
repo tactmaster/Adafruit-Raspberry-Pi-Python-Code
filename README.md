@@ -1,5 +1,5 @@
 Added 
-
+============
 Clock + IP example for Adafruit_CharLCDPlate
 
 Ed Watson (tactmaster)
